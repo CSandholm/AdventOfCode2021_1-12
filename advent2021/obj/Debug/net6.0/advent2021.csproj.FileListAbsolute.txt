@@ -1,0 +1,45 @@
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\bin\Debug\net6.0\advent2021.exe
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\bin\Debug\net6.0\advent2021.deps.json
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\bin\Debug\net6.0\advent2021.runtimeconfig.json
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\bin\Debug\net6.0\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\bin\Debug\net6.0\advent2021.pdb
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\advent2021.csproj.AssemblyReference.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\advent2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\advent2021.AssemblyInfoInputs.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\advent2021.AssemblyInfo.cs
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\advent2021.csproj.CoreCompileInputs.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\refint\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\advent2021.pdb
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\advent2021.genruntimeconfig.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\advent\advent2021\obj\Debug\net6.0\ref\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.exe
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.deps.json
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.runtimeconfig.json
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.pdb
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.csproj.AssemblyReference.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.AssemblyInfoInputs.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.AssemblyInfo.cs
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.csproj.CoreCompileInputs.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\refint\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.pdb
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.genruntimeconfig.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\ref\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.exe
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.deps.json
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.runtimeconfig.json
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\bin\Debug\net6.0\advent2021.pdb
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.csproj.AssemblyReference.cache
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.AssemblyInfoInputs.cache
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.AssemblyInfo.cs
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.csproj.CoreCompileInputs.cache
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\refint\advent2021.dll
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.pdb
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\advent2021.genruntimeconfig.cache
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\backup\advent\advent2021\obj\Debug\net6.0\ref\advent2021.dll
